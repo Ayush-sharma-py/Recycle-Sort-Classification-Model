@@ -1,8 +1,7 @@
 import tensorflow 
 from tensorflow import keras
-hello
 
-
+class_labels = ["biodegradables","non-biodegradables"]
 
 
 
